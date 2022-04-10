@@ -40,9 +40,3 @@ https://astrangersadvice-17b68.web.app/
 ##  A Stranger's Advice Paid Services
 ![clone images](/paid.jpeg)
 
-
-### Made By
-1. Arsh Kumar
-2. Kanishk Vats
-3. Amitesh Kumar
-4. Prakhar Gupta
