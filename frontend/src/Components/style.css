@@ -1,0 +1,159 @@
+.box {
+	position: absolute;
+	z-index: 1;
+	width: 100vw;
+}
+
+.logo {
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+}
+
+.Login-Button {
+	font-family: "Lora" !important;
+	font-size: 24px !important;
+	padding: 0px 70px !important;
+	color: white !important;
+}
+
+.Signup-Button {
+	font-family: "Lora" !important;
+	font-size: 24px !important;
+	padding: 0px 70px 0px 20px !important;
+}
+
+.Nav {
+	background-color: black !important;
+}
+
+/* .above {
+	margin-top: 1000px !important;
+	padding-top: 1000px !important;
+} */
+
+.above_h1 {
+	font-family: "Cinzel";
+	padding-top: 150px;
+	font-size: 60px;
+	color: white;
+	/* padding-bottom: 350px; */
+	box-shadow: none;
+	border: 0px;
+	text-align: center;
+}
+
+.above_p {
+	font-family: "Bona Nova";
+	font-size: 25px;
+	color: white;
+	padding-bottom: 100px;
+	padding-top: 50px;
+	box-shadow: none;
+	border: 0px;
+	text-align: center;
+}
+
+.button {
+	display: flex;
+	justify-content: center;
+	padding-bottom: 370px;
+	color: white;
+	font-family: "Lora";
+	overflow: hidden;
+}
+
+.login-link {
+	text-decoration: none;
+	color: white;
+}
+
+.but_link {
+	text-decoration: none;
+	color: black;
+
+	background-color: rgba(73, 227, 11, 0.8);
+	margin-right: 30px;
+	width: 150px;
+	text-align: center;
+	border-radius: 10px;
+	padding: 10px;
+	box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.but_link:hover {
+	background-color: grey;
+	transition: 0.5s;
+	opacity: 0.8;
+}
+.nav-heading {
+	font-family: "Cinzel", serif !important;
+	font-size: 24px !important;
+	color: white;
+	padding: 0px 20px;
+}
+
+.home-link {
+	text-decoration: none;
+}
+
+.div-left {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-left: 40px;
+}
+
+.nav-main {
+	z-index: 1;
+	width: 100vw;
+	position: fixed;
+	top: 0;
+	height: 70px;
+	display: flex;
+	background-color: black;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.red {
+	background-color: rgba(193, 66, 66, 0.8);
+}
+
+.blue {
+	background-color: rgba(11, 216, 227, 0.8);
+}
+
+.pink {
+	background-color: rgba(209, 118, 217, 0.8);
+}
+
+.orange {
+	background-color: rgba(234, 145, 61, 0.8);
+}
+
+.logout-button {
+	color: white;
+}
+
+.join-btn {
+	text-decoration: none;
+	color: white;
+	background-color: black;
+	margin-right: 30px;
+	opacity: 0.5;
+	font-size: 26px;
+	font-family: "Lora";
+	text-align: center;
+	padding: 15px 30px;
+	margin: 0;
+	border: 0px;
+	cursor: pointer;
+}
+
+.join-btn:hover {
+	background-color: grey;
+	transition: 0.5s;
+	opacity: 0.8;
+}

@@ -1,0 +1,64 @@
+.card_div {
+	padding-top: 200px;
+	display: flex;
+	justify-content: space-evenly;
+}
+.video-name-here {
+	opacity: 0.86;
+	width: 100vw !important;
+	height: 38vw;
+	object-fit: cover;
+	padding: 0px;
+	margin: 0px;
+}
+
+.video_div {
+	width: 100vw;
+	padding: 0px;
+	margin: 0px;
+	display: flex;
+	object-fit: contain;
+	background-color: black;
+	z-index: -100;
+	position: absolute;
+}
+
+.homepage {
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+}
+
+.front-bot {
+	padding-top: -500px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.bot-heading {
+	font-size: 40px;
+	font-family: "Cinzel";
+}
+
+.bot-desc {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: "Cinzel";
+	font-size: 36px;
+}
+
+.bot-desc > span {
+	padding-right: 25px;
+}
+
+.bot-image {
+	height: 100px;
+}
+
+.link-counsel {
+	text-decoration: none;
+	color: black;
+}

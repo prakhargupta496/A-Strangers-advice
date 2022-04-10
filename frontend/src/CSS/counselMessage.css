@@ -1,0 +1,28 @@
+.message {
+	padding: 10px;
+	margin: 10px;
+	width: fit-content;
+	border: 0px;
+	box-shadow: none;
+}
+
+.message__user {
+	color: white !important;
+	border-radius: 10px;
+	display: flex;
+	justify-content: end !important;
+	flex-direction: row;
+	align-items: flex-end;
+}
+
+.message__usercard {
+	background-color: #00bfb6 !important;
+	box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px !important;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+}
+
+.message__guestcard {
+	background-color: #e9e9eb !important;
+}

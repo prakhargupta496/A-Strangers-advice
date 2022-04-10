@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="513px" viewBox="0 0 1200 513" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="benefits" transform="translate(0.000000, -145.000000)" fill="#E1F0EE" fill-rule="nonzero">
+            <g id="Bitmap-Copy" transform="translate(0.000000, 165.000000)">
+                <g id="Mask">
+                    <path d="M0,23 C73.5460519,52.927589 141.319078,67.8913836 203.319078,67.8913836 C352.226236,67.8913836 498.064867,30.3409406 719.547531,10.1704703 C867.202641,-3.27650989 1027.35346,-3.27650989 1200,10.1704703 L1200,493 L0,493 L0,23 Z" id="path-1"></path>
+                </g>
+            </g>
+            <path d="M902.074368,-46.1876682 C935.347462,97.8000042 978.336912,220.785555 1031.04272,322.768983 C1083.74852,424.752411 1117.66668,449.783168 1132.79719,397.861253 C1099.99633,387.107807 1058.29422,330.944809 1007.69087,229.372258 C957.087511,127.799708 921.882011,35.9463988 902.074368,-46.1876682 Z" id="Path-5" transform="translate(1017.435778, 188.974179) scale(-1, 1) rotate(110.000000) translate(-1017.435778, -188.974179) "></path>
+        </g>
+    </g>
+</svg>
